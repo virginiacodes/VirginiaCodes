@@ -1,8 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 <hr>
-#### I'm Virginie Helmreich
+<h4>I'm Virginie Helmreich</h4>
 <hr>
-#### I'm currently training as a software/data engineer consultant
+<h4>I'm currently training as a software/data engineer consultant at</h4>
+<img align="center"src="https://www.ctp.org.uk/assets/x/61912">
+
 
 
 <!--
