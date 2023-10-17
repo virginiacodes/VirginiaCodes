@@ -8,7 +8,9 @@
   <img display="block" margin-left="auto" margin-right="auto" width="30%" src="https://media.licdn.com/dms/image/D4E03AQEy-3S_tPIvEg/profile-displayphoto-shrink_800_800/0/1686066464006?e=1703116800&v=beta&t=chYlel1d__oc7KeQkif4Sns3JgpUbqCgxG9ih9Hc9sI">
 </div>
 <br>
+
 ---
+
 :mortar_board: I've completed a fullstack web development bootcamp at the beginning of 2023. <br>
 :computer: I'm currently training as a software/data engineer consultant at <a href="url">Xander Talent</a></h4>.
 
