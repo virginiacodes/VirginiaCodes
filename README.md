@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <br>
 <h2 align="center">I'm Virginie Helmreich</h2>
-but call me Virginia :blush:
+<h3 align="center">but call me Virginia :blush:</h3>
 <h3 align="center">I'm a junior software developper</h3>
 <br>
 <div align="center">
