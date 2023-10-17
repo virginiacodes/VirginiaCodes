@@ -1,4 +1,9 @@
 ### Hi there 👋
+<hr>
+#### I'm Virginie Helmreich
+<hr>
+#### I'm currently training as a software/data engineer consultant
+
 
 <!--
 **virginiacodes/VirginiaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Virginie Helmreich
+
