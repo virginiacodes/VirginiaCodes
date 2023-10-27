@@ -9,7 +9,7 @@
 </div>
 <br>
 ---
-<div>
+<div align="center">
   <h2>
     Technical specialism
   </h2>
