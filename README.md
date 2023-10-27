@@ -14,9 +14,16 @@
   :mortar_board: I've completed a fullstack web development bootcamp at the beginning of 2023. <br>
   :computer: I'm currently training as a software/data engineer consultant at <a href="url">Xander Talent</a></h4>. <br>
   :ghost: I'm Swiss/French. <br>
+  :smiley_cat: My pronouns are She/Her. <br>
   :guitar: I'm a bass and keyboard player. <br>
   :rainbow: Inclusivity matter. <br>
   
+</div>
+<div align="center">
+  <h2>
+    Let's connect!
+  </h2>
+  <a href="https://www.linkedin.com/in/virginie-helmreich-623b89184/">LinkedIn profile</a>
 </div>
 
 
