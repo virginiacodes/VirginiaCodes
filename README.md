@@ -13,21 +13,21 @@
   <h2>
     Technical specialism
   </h2>
+  HTML<br>
+  CSS<br>
+  JavaScript<br>
+  React.js<br>
   Python<br>
   LangChain<br>
   APIs<br>
   PowerBI<br>
-  JavaScript<br>
-  HTML<br>
-  CSS<br>
   MySQL<br>
-  
 </div>
 
 ---
 <div align="center">
   :mortar_board: I've completed a fullstack web development bootcamp at the beginning of 2023. <br>
-  :computer: I'm currently training as a software/data engineer consultant at <a href="url">Xander Talent</a></h4>. <br>
+  :computer: I've trained as a software/data engineer consultant at <a href="url">Xander Talent</a></h4>. <br>
   :ghost: I'm Swiss/French. <br>
   :smiley_cat: My pronouns are She/Her. <br>
   :guitar: I'm a bass and keyboard player. <br>
